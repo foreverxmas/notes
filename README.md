@@ -1,2 +1,2 @@
-# til
-Today I Learned
+# Today I Learned
+Try to log what I Learned for today
