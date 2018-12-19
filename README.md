@@ -8,7 +8,9 @@ I start with [GitHub writing and formatting syntax](https://help.github.com/arti
 ### Categories
 
 * [k6](#k6)
+* [Test](#test)
 
 ---
 
 - [k6](k6/intro.md)
+- [Postman](test/postman/example.md)
