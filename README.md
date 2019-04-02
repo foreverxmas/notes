@@ -14,3 +14,4 @@ I start with [GitHub writing and formatting syntax](https://help.github.com/arti
 
 - [k6](k6/intro.md)
 - [Postman](test/postman/example.md)
+- [ReadyAPI](test/ReadyAPI/README.md)
